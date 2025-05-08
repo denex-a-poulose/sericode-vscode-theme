@@ -3,6 +3,7 @@
   "displayName": "Sericode",
   "description": "Sericode is a clean, modern theme for Visual Studio Code, crafted to enhance readability and reduce visual fatigue. With a carefully curated color palette, Sericode offers a refined syntax highlighting experience that prioritizes both aesthetic appeal and functional clarity.",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.99.0"
   },
