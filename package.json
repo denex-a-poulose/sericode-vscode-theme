@@ -1,0 +1,43 @@
+{
+  "name": "sericode",
+  "displayName": "Sericode",
+  "description": "Sericode is a clean, modern theme for Visual Studio Code, crafted to enhance readability and reduce visual fatigue. With a carefully curated color palette, Sericode offers a refined syntax highlighting experience that prioritizes both aesthetic appeal and functional clarity.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "publisher": "DenexAPoulose",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denex-a-poulose/sericode-vscode-theme"
+  },
+  "keywords": [
+    "dark theme",
+    "vscode theme",
+    "dark mode",
+    "code editor theme",
+    "developer theme",
+    "visual studio code",
+    "night mode",
+    "dark UI",
+    "syntax highlighting",
+    "VS Code dark theme",
+    "editor color scheme",
+    "theme extension",
+    "programming theme",
+    "minimal theme",
+    "dark color palette"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sericode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sericode-color-theme.json"
+      }
+    ]
+  }
+}
